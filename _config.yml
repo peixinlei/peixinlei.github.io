@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinlei Pei"
+  name             : "Xinlei Pei (裴新蕾)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SDUFE -> UDT"
+  bio              : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   location         : "Jinan, China"
   employer         : "Unicom Digital Technology Co.,Ltd. Shandong Branch"
   pubmed           : 
@@ -43,8 +43,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "Xinlei Pei"
-  dblp             : "https://dblp.org/pid/342/7101.html"
+  linkedin         : 
+  dblp             : #"https://dblp.org/pid/342/7101.html"
   orcid            : "https://orcid.org/0000-0002-0290-3399"
   pinterest        :
   soundcloud       :
