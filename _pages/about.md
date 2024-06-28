@@ -27,6 +27,37 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 - *2023.02*: 🎯 One paper is accepted by ***Sensors*** !! [\[Journal\]](https://www.mdpi.com/1424-8220/23/5/2559)
 - *2022.12*: 💎 One paper is accepted by ***Expert Systems with Applications*** !! [\[Journal\]]((https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344))
 
+<!-- <style>  
+    .scrollable-area {  
+        max-height: 170px;  
+        overflow-y: auto;  
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);  
+        padding: 10px;  
+        color: #333;
+    }
+    .pdf {
+        text-decoration: none;
+        color: #122c8b;
+    }
+    .code {
+        text-decoration: none;
+        color: #122c8b;
+    }
+    .title{
+        color: #374798;
+    }
+</style>  
+
+<div class="scrollable-area" style="width:100%;">
+    <ul>
+        <li><em>2024.05</em>: 📄 <strong>Preference Dissection</strong> paper is accepted by  ACL'24.</li>
+        <li><em>2024.01</em>: 📄 Our <strong>Lemur</strong> paper(Agent Model) is accepted by ICLR'24 (<font color="#cc0000">Spotlight</font>, 5%).</li>  
+        <li><em>2023.10</em>: 🔥 We've built <a href="https://github.com/xlang-ai/OpenAgents">OpenAgents</a>, an open platform for language agents in the wild!</li>  
+        <li><em>2023.10</em>: 🙋 We have released <a href="https://arxiv.org/abs/2310.06830">Lemur-70B</a>, an agentic language model based on LLama-2!</li>  
+        <li><em>2023.04</em>: 🔥 New <a href="https://arxiv.org/abs/2304.07995">preprint</a> applying <strong>symbolic tasks</strong> in <strong>instruction tuning</strong></li>  
+        <li><em>2022.10</em>: 📄 Our <strong>TaCube</strong> paper(Table QA) is accepted by EMNLP'22 (<font color="#cc0000">Oral</font> Presentation).</li>  
+    </ul>  
+</div>  -->
   
 # 📝 Publications 
 
