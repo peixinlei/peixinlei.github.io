@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "An AI Enthusiast"
   location         : "Jinan, China"
-  employer         : "China Unicom"
+  employer         : #"China Unicom"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=A6Sd5csAAAAJ"
   email            : "peixinlei1998@gmail.com"
