@@ -23,22 +23,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 - *2023.03*: 🎉 One paper is accepted by IEEE Access !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
 - *2023.02*: 🎯 One paper is accepted by Sensors !! [\[Journal\]](https://www.mdpi.com/1424-8220/23/5/2559)
 - *2022.12*: 💎 One paper is accepted by Expert Systems with Applications !! [\[Journal\]]((https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344))
-  
-<!--
-I am currently a Big Data Engineer in China Unicom Digital Technology Co., Ltd. Shandong Branch, which is affiliated to China United Network Communications Group Co., Ltd.
-I currently work as a Big Data Engineer at China Unicom (Shandong) Industrial Internet Co., Ltd./China Unicom Digital Technology Co., Ltd. Shandong Branch. Prior to this, I obtained my master's degree and bachelor's degree from the School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan, China, in June 2023 and June 2020, respectively, under the guidance of Professor Liu Zheng.
-I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
--->
 
+  
 # 📝 Publications 
 
 ### English 
