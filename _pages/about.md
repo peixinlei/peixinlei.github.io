@@ -69,9 +69,15 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 
 # 🎓 Educations 
+
+<span style="display: inline-block; width: 200px;">*2020.09 - 2023.06*, M.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
+
+<span style="display: inline-block; width: 200px;">*2016.09 - 2020.06*, B.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
+
+<--
 - *2020.09 - 2023.06*, M.S.&nbsp;<a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China. 
 - *2016.09 - 2020.06*, B.S.<a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
-
+-->
 # 💬 Conferences
 
 - *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
