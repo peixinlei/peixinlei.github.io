@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinlei Pei (裴新蕾)"
+title                    : "Xinlei Pei"
 description              : "XXXXXXXXXXXXXXXXXXXXXXX"
 repository               : "peixinlei/peixinlei.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinlei Pei (裴新蕾)"
+  name             : "Xinlei Pei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  bio              : "An AI Enthusiast"
   location         : "Jinan, China"
-  employer         : "Unicom Digital Technology Co.,Ltd. Shandong Branch"
+  employer         : "China Unicom"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=A6Sd5csAAAAJ"
   email            : "peixinlei1998@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Xinlei-Pei/research"
+  researchgate     : #"https://www.researchgate.net/profile/Xinlei-Pei/research"
   uri              : 
   bitbucket        :
   codepen          :
