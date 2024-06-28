@@ -27,8 +27,9 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   
 # 📝 Publications 
 
+### Selected Papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div><img src='images/sensors2022.svg' alt="paper_1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
@@ -55,6 +56,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 </div>
 </div>
 
+### Collaborative Papers
+---
 - Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15(20): 7362. (JCR:Q1; IF:3.748)  
 [[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
 
@@ -66,7 +69,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 
 # 🎓 Educations 
-- *2020.09 - 2023.06*, M.S.&nbsp<a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China. 
+- *2020.09 - 2023.06*, M.S.&nbsp;<a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China. 
 - *2016.09 - 2020.06*, B.S.&nbsp;&nbsp;<a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
 
 # 💬 Conferences
