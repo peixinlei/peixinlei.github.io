@@ -15,15 +15,15 @@ I am currently a Big Data Engineer in [China Unicom (Shandong) Industrial Intern
 My research interests lie broadly in deep learning, information retrieval, etc. Advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm), I focused on cross-modal retrieval (e.g., image-text matching) and have published some [papers](https://scholar.google.com/citations?user=A6Sd5csAAAAJ) during my master's degree. 
 
 # 🔥 News
-- *2024.02*: 🎉 One paper is accepted by Applied Soft Computing !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
-- *2023.10*: 🎁 I won the Excellent Master Dissertation Award of Shandong University of Finance and Economics in 2023. [\[Info\]](https://yjsy.sdufe.edu.cn/info/1031/3784.htm)
-- *2023.06*: 👔 Defense my M.S. and graduate from SDUFE, Good bye my school-days. 
-- *2023.05*: 🎉 One paper is accepted by Scientia Iranica !! [\[Journal\]]((https://scientiairanica.sharif.edu/article_23224.html))
+- *2024.02*: 🔔 One paper is accepted by Applied Soft Computing !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
+- *2023.10*: 🎁 I won the Excellent Master Dissertation Award of Shandong University of Finance and Economics in 2023 !! [\[Info\]](https://yjsy.sdufe.edu.cn/info/1031/3784.htm)
+- *2023.08*: 💻 I joined China Unicom as a Big Data Engineer !!
+- *2023.06*: 👔 Defense my M.S. and graduate from SDUFE, Good bye my school-days !!
+- *2023.05*: ⚡ One paper is accepted by Scientia Iranica !! [\[Journal\]]((https://scientiairanica.sharif.edu/article_23224.html))
 - *2023.03*: 🎉 One paper is accepted by IEEE Access !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
-- *2023.02*: 🎉 One paper is accepted by Sensors !! [\[Journal\]](https://www.mdpi.com/1424-8220/23/5/2559)
-- *2022.12*: 🎉 One paper is accepted by Expert Systems with Applications !! [\[Journal\]]((https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344))
-- 
-
+- *2023.02*: 🎯 One paper is accepted by Sensors !! [\[Journal\]](https://www.mdpi.com/1424-8220/23/5/2559)
+- *2022.12*: 💎 One paper is accepted by Expert Systems with Applications !! [\[Journal\]]((https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344))
+  
 <!--
 I am currently a Big Data Engineer in China Unicom Digital Technology Co., Ltd. Shandong Branch, which is affiliated to China United Network Communications Group Co., Ltd.
 I currently work as a Big Data Engineer at China Unicom (Shandong) Industrial Internet Co., Ltd./China Unicom Digital Technology Co., Ltd. Shandong Branch. Prior to this, I obtained my master's degree and bachelor's degree from the School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan, China, in June 2023 and June 2020, respectively, under the guidance of Professor Liu Zheng.
