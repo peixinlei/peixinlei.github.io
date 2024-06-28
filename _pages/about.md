@@ -17,19 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Big Data Engineer in [China Unicom (Shandong) Industrial Internet Co., Ltd./China Unicom Digital Technology Co., Ltd. Shandong Branch](https://www.cudt.com.cn/), which is affiliated to [China United Network Communications Group Co., Ltd.](https://www.chinaunicom.com.hk/en/global/home.php) Previously, I earned my master’s and bachelor’s degrees from [the School of Computer Science and Technology](https://en.cs.sdufe.edu.cn/), [Shandong University of Finance and Economics](https://www.sdufe.edu.cn/), advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm) in June 2023 and June 2020, respectively.
+I am currently a Big Data Engineer in [China Unicom (Shandong) Industrial Internet Co., Ltd./China Unicom Digital Technology Co., Ltd. Shandong Branch](https://www.cudt.com.cn/), which is affiliated to [China United Network Communications Group Co., Ltd.](https://www.chinaunicom.com.hk/en/global/home.php) Previously, I earned my master’s and bachelor’s degrees from [the School of Computer Science and Technology](https://en.cs.sdufe.edu.cn/), [Shandong University of Finance and Economics](https://www.sdufe.edu.cn/), in June 2023 and June 2020, respectively.
 
-My research interests lie broadly in deep learning, information retrieval, data mining, multimodal large language model, etc.
+My research interests lie broadly in deep learning, information retrieval, etc. Advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm), I focused on cross-modal retrieval (e.g., image-text matching) and have published some [papers](https://scholar.google.com/citations?user=A6Sd5csAAAAJ) during my master's degree. 
 
-primarily in cross-modal retrieval (e.g., image-text matching) and I have published some papers.
+
 
 <!--
 I am currently a Big Data Engineer in China Unicom Digital Technology Co., Ltd. Shandong Branch, which is affiliated to China United Network Communications Group Co., Ltd.
-
 I currently work as a Big Data Engineer at China Unicom (Shandong) Industrial Internet Co., Ltd./China Unicom Digital Technology Co., Ltd. Shandong Branch. Prior to this, I obtained my master's degree and bachelor's degree from the School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan, China, in June 2023 and June 2020, respectively, under the guidance of Professor Liu Zheng.
 I have published 20+ papers with 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
--->
 My research interest includes: 
 - Instrumentation
 - Nondestructive testing (NDT)
@@ -38,12 +36,7 @@ My research interest includes:
 - Electromagnetic measurements
 - Magnetic sensors
 - Nondestructive testing equipment
-
-
-# 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
- 
+-->
 
 # 📝 Publications 
 
@@ -159,7 +152,9 @@ My research interest includes:
 [[HTML]](https://dx.doi.org/10.11973/wsjc202011013) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
 
 
-
+# 🎓 Educations 
+- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
+- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China.
 
 # 🏅 Honors and Awards
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
