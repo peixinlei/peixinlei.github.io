@@ -70,9 +70,9 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 # 🎓 Educations 
 
-- <span style="display: inline-block; width: 155px;">*2020.09 - 2023.06*, M.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
+- <span style="display: inline-block; width: 160px;">*2020.09 - 2023.06*, M.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
 
-- <span style="display: inline-block; width: 155px;">*2016.09 - 2020.06*, B.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
+- <span style="display: inline-block; width: 160px;">*2016.09 - 2020.06*, B.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
 
 # 💬 Conferences
 
