@@ -59,14 +59,15 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 [[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
 
 
-# 🎓 Educations 
-- *2020.09 - 2023.06*, M.S. <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="20pt" /></a>School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China. 
-- *2016.09 - 2020.06*, B.S. <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="20pt" /></a>School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
-
 # 🏅 Honors and Awards
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+
+
+# 🎓 Educations 
+- *2020.09 - 2023.06*, M.S. <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a>School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China. 
+- *2016.09 - 2020.06*, B.S. <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a>School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
 
 # 💬 Conferences
 
