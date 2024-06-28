@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Big Data Engineer in [China Unicom Digital Technology Co., Ltd.](https://www.cudt.com.cn/) Shandong Branch, which is affiliated to [China United Network Communications Group Co., Ltd.](https://www.chinaunicom.com.hk/en/global/home.php) Previously, I earned my master’s and bachelor’s degrees from [the School of Computer Science and Technology](https://en.cs.sdufe.edu.cn/), [Shandong University of Finance and Economics](https://www.sdufe.edu.cn/), advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm) in June 2023 and June 2020, respectively.
+I am currently a Big Data Engineer in [China Unicom (Shandong) Industrial Internet Co., Ltd./China Unicom Digital Technology Co., Ltd. Shandong Branch](https://www.cudt.com.cn/) , which is affiliated to [China United Network Communications Group Co., Ltd.](https://www.chinaunicom.com.hk/en/global/home.php) Previously, I earned my master’s and bachelor’s degrees from [the School of Computer Science and Technology](https://en.cs.sdufe.edu.cn/), [Shandong University of Finance and Economics](https://www.sdufe.edu.cn/), advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm) in June 2023 and June 2020, respectively.
 
 <!--
 I am currently a Big Data Engineer in China Unicom Digital Technology Co., Ltd. Shandong Branch, which is affiliated to China United Network Communications Group Co., Ltd.
