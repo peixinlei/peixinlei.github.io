@@ -192,6 +192,7 @@ document.addEventListener('DOMContentLoaded', function () {
 </script>
 
 
+
 ### Collaborative Papers
 ---
 - Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15(20): 7362. (JCR:Q1; IF:3.748)  
