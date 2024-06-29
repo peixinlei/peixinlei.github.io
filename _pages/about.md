@@ -12,9 +12,9 @@ redirect_from:
 
 # 👀 About Me
 
-I am currently a Big Data Engineer in [China Unicom (Shandong) Industrial Internet Co., Ltd./China Unicom Digital Technology Co., Ltd. Shandong Branch](https://www.cudt.com.cn/), which is affiliated to [China United Network Communications Group Co., Ltd.](https://www.chinaunicom.com.hk/en/global/home.php) <img src='./images/ChinaUnicom.png' style='width: 6em;'>. Previously, I earned my master’s and bachelor’s degrees from [the School of Computer Science and Technology](https://en.cs.sdufe.edu.cn/), [Shandong University of Finance and Economics](https://www.sdufe.edu.cn/)<img src='./images/SDUFE.png' style='width: 6em;'>, in June 2023 and June 2020, respectively. My research interests lie broadly in deep learning, information retrieval, etc. Advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm), I focused on cross-modal retrieval (e.g., image-text matching) and have published some [papers](https://scholar.google.com/citations?user=A6Sd5csAAAAJ) during my master's degree. 
+I am currently a Big Data Engineer in [China Unicom (Shandong) Industrial Internet Co., Ltd./China Unicom Digital Technology Co., Ltd. Shandong Branch](https://www.cudt.com.cn/), which is affiliated to [China United Network Communications Group Co., Ltd.](https://www.chinaunicom.com.hk/en/global/home.php) <img src='./images/ChinaUnicom.png' style='width: 6em;'>. Previously, I earned my master’s and bachelor’s degrees from [the School of Computer Science and Technology](https://en.cs.sdufe.edu.cn/), [Shandong University of Finance and Economics](https://www.sdufe.edu.cn/)<img src='./images/SDUFE.png' style='width: 6em;'>, in June 2023 and June 2020, respectively. 
 
-In the near future, I may actively seek opportunities to pursue a Ph.D.📆 Besides, you can download and view my <a href='./pdf/Resume.pdf'><img src="https://img.shields.io/badge/-English Curriculum Vitae-299DE7?logo=gitbook&logoColor=white"></a> here. 
+My research interests lie broadly in deep learning, information retrieval, etc. Advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm), I focused on cross-modal retrieval (e.g., image-text matching) and have published some [papers](https://scholar.google.com/citations?user=A6Sd5csAAAAJ) during my master's degree. In the near future, I may actively seek opportunities to pursue a Ph.D. Besides, you can download and view my <a href='./pdf/Resume.pdf'><img src="https://img.shields.io/badge/-English Curriculum Vitae-299DE7?logo=gitbook&logoColor=white"></a> from here. 
 
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpeixinlei.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page hits&edge_flat=false"/></a>
@@ -68,9 +68,8 @@ In the near future, I may actively seek opportunities to pursue a Ph.D.📆 Besi
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div><img src='images/sensors2022.svg' alt="paper_1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+- Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7)  
+[[Link]](https://dx.doi.org/10.3390/s22093587) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
 </div>
