@@ -133,22 +133,30 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   padding: 10px;
   cursor: pointer;
 }
+
+.badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 5px 10px;
+  border-radius: 5px;
+  z-index: 10;
+}
 </style>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
+    <div class="slider">
       <div class="badge">Appl. Soft Comput. 2024</div>
-      <div class="slider">
-        <div class="slides">
-          <img src='images/CCCL_1.jpg' alt="CCCL_1">
-          <img src='images/CCCL_2.jpg' alt="CCCL_2">
-          <!-- Add more images as needed -->
-        </div>
-        <div class="slider-nav">
-          <button id="prev">&#10094;</button>
-          <button id="next">&#10095;</button>
-        </div>
+      <div class="slides">
+        <img src='images/CCCL.jpg' alt="paper_1">
+        <img src='images/another-image.jpg' alt="paper_2">
+        <!-- Add more images as needed -->
+      </div>
+      <div class="slider-nav">
+        <button id="prev">&#10094;</button>
+        <button id="next">&#10095;</button>
       </div>
     </div>
   </div>
@@ -182,6 +190,7 @@ document.addEventListener('DOMContentLoaded', function () {
   prevBtn.addEventListener('click', () => showSlide(currentIndex - 1));
 });
 </script>
+
 
 ### Collaborative Papers
 ---
