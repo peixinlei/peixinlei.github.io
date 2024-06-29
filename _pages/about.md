@@ -60,8 +60,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
         <li><em>2023.04</em>: 🔥 New <a href="https://arxiv.org/abs/2304.07995">preprint</a> applying <strong>symbolic tasks</strong> in <strong>instruction tuning</strong></li>  
         <li><em>2022.10</em>: 📄 Our <strong>TaCube</strong> paper(Table QA) is accepted by EMNLP'22 (<font color="#cc0000">Oral</font> Presentation).</li>  
     </ul>  
-</div>  -->
-  
+</div>  
+
 # 📝 Publications 
 
 ### Selected Papers
@@ -91,6 +91,97 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 </div>
 </div>
+-->
+
+# 📝 Publications 
+
+### Selected Papers
+---
+
+<style>
+.slider {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slides img {
+  width: 100%;
+  flex-shrink: 0;
+}
+
+.slider-nav {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.slider-nav button {
+  background: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+</style>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Appl. Soft Comput. 2024</div>
+      <div class="slider">
+        <div class="slides">
+          <img src='images/CCCL_1.jpg' alt="CCCL_1">
+          <img src='images/CCCL_2.jpg' alt="CCCL_2">
+          <!-- Add more images as needed -->
+        </div>
+        <div class="slider-nav">
+          <button id="prev">&#10094;</button>
+          <button id="next">&#10095;</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    - Zheng Liu, **Xinlei Pei**, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor)  
+    [🌐[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698) [📄[PDF]](/pdf/CCCL.pdf)
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const slides = document.querySelector('.slides');
+  const slideImages = document.querySelectorAll('.slides img');
+  const prevBtn = document.getElementById('prev');
+  const nextBtn = document.getElementById('next');
+  
+  let currentIndex = 0;
+
+  function showSlide(index) {
+    if (index >= slideImages.length) {
+      currentIndex = 0;
+    } else if (index < 0) {
+      currentIndex = slideImages.length - 1;
+    } else {
+      currentIndex = index;
+    }
+    slides.style.transform = `translateX(${-currentIndex * 100}%)`;
+  }
+
+  nextBtn.addEventListener('click', () => showSlide(currentIndex + 1));
+  prevBtn.addEventListener('click', () => showSlide(currentIndex - 1));
+});
+</script>
 
 ### Collaborative Papers
 ---
