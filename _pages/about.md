@@ -150,8 +150,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     <div class="slider">
       <div class="badge">Appl. Soft Comput. 2024</div>
       <div class="slides">
-        <img src='images/CCCL.jpg' alt="paper_1">
-        <img src='images/another-image.jpg' alt="paper_2">
+        <img src='images/CCCL_1.jpg' alt="CCCL_1">
+        <img src='images/CCCL_2.jpg' alt="CCCL_2">
         <!-- Add more images as needed -->
       </div>
       <div class="slider-nav">
