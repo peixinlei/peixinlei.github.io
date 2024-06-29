@@ -161,8 +161,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    - Zheng Liu, **Xinlei Pei**, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor)  
-    [🌐[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698) [📄[PDF]](/pdf/CCCL.pdf)
+  - Zheng Liu, **Xinlei Pei**, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor)  
+  [🌐[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698) [📄[PDF]](/pdf/CCCL.pdf)
   </div>
 </div>
 
