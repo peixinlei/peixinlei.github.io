@@ -69,7 +69,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div><img src='images/CCCL.jpg' alt="paper_1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor)  
-[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698) [[Preview]](https://github.com/peixinlei/peixinlei.github.io/blob/main/pdf/CCCL.pdf) [[PDF]](/pdf/CCCL.pdf)
+[🌐[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698) [📄[PDF]](/pdf/CCCL.pdf)
 
 </div>
 </div>
@@ -78,7 +78,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 <div class='paper-box-text' markdown="1">
 
 -	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [📄[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
 
 </div>
 </div>
