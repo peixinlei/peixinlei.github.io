@@ -112,10 +112,6 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
         <img src='images/CCCL_2.jpg' alt="CCCL_2" width="100%">
       </div>
 
-      <div class="mySlides fade">
-        <img src='images/CCCL_3.jpg' alt="CCCL_3" width="100%">
-      </div>
-
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
