@@ -101,11 +101,11 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 <style>
 .slider {
   width: 100%;
-  max-width: 700px;
+  max-width: 600px;
   margin: auto;
   overflow: hidden;
   position: relative;
-  height: 500px; /* 设置一个固定高度，确保图片容器大小一致 */
+  height: 400px; /* 设置一个固定高度，确保图片容器大小一致 */
 }
 
 .slides {
@@ -117,7 +117,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 .slides img {
   width: 100%;
   height: 100%;
-  object-fit: contain; /* 确保图片以合适的比例填充容器 */
+  object-fit: cover; /* 确保图片以合适的比例填充容器 */
   flex-shrink: 0;
 }
 
