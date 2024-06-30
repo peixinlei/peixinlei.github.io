@@ -126,7 +126,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 </style>
 
 <script>
-  let slideIndex1 = 1;
+    let slideIndex1 = 1;
   showSlides(1, slideIndex1);
 
   let slideIndex2 = 1;
@@ -145,15 +145,21 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     let slides;
     if (slideshow === 1) {
       slides = document.getElementsByClassName("mySlides1");
+      if (n > slides.length) {slideIndex1 = 1}
+      if (n < 1) {slideIndex1 = slides.length}
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slides[slideIndex1-1].style.display = "block";
     } else if (slideshow === 2) {
       slides = document.getElementsByClassName("mySlides2");
+      if (n > slides.length) {slideIndex2 = 1}
+      if (n < 1) {slideIndex2 = slides.length}
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slides[slideIndex2-1].style.display = "block";
     }
-    if (n > slides.length) {n = 1}
-    if (n < 1) {n = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    slides[n-1].style.display = "block";
   }
 </script>
 
