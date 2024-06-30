@@ -66,7 +66,12 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 ### Selected Papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div><img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Appl. Soft Comput. 2024</div>
+<img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%">
+</div></div>
 <div class='paper-box-text' markdown="1">
   
 <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
@@ -101,7 +106,7 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
 ### Selected Papers
 ---
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div>
     <div class="slideshow-container">
 
       <div class="mySlides fade">
@@ -115,7 +120,7 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-  </div>
+  </div></div>
 
   <div class='paper-box-text' markdown="1">
   <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
@@ -123,6 +128,7 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
   ***Applied Soft Computing***, 2024, 154: 111395.  
   JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
   </div>
+  
 </div>
 
 <style>
