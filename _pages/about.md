@@ -36,7 +36,6 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
   </div></div>
-
   <div class='paper-box-text' markdown="1">
   <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
   Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
@@ -44,7 +43,6 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor  
   [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
   </div>
-  
 </div>
 
 <div class='paper-box'>
@@ -67,15 +65,13 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
   </div></div>
-
   <div class='paper-box-text' markdown="1">
   <strong><font color="#374798">Complementarity is the king: Multi-modal and multi-grained hierarchical semantic enhancement network for cross-modal retrieval</font></strong>  
   `Xinlei Pei`, Zheng Liu, Shanshan Gao, Yijun Su.  
   ***Expert Systems with Applications***, 2023, 216: 119415  
   JCR: **Q1** | IF: **8.6** | 1st author | CCF-C  
-  [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)]  | [🛠 [Code](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)] | [📄 [PDF](/pdf/M2HSE.pdf)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
+  [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)]  | [🛠 [Code](https://github.com/peixinlei/M2HSE)] | [📄 [PDF](/pdf/M2HSE.pdf)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
   </div>
-  
 </div>
 
 
