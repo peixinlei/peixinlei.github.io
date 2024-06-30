@@ -126,7 +126,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 </style>
 
 <script>
-    let slideIndex1 = 1;
+  let slideIndex1 = 1;
   showSlides(1, slideIndex1);
 
   let slideIndex2 = 1;
@@ -162,6 +162,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     }
   }
 </script>
+
 
 
 
