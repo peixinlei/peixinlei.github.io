@@ -32,8 +32,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
         <img src='images/CCCL_2.jpg' alt="CCCL_2" width="100%">
       </div>
 
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      <a class="prev1" onclick="plusSlides(1, -1)">&#10094;</a>
+      <a class="next1" onclick="plusSlides(1, 1)">&#10095;</a>
     </div>
   </div></div>
   <div class='paper-box-text' markdown="1">
@@ -61,8 +61,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
         <img src='images/M2HSE_3.png' alt="M2HSE_3" width="100%">
       </div>
 
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      <a class="prev2" onclick="plusSlides(2, -1)">&#10094;</a>
+      <a class="next2" onclick="plusSlides(2, 1)">&#10095;</a>
     </div>
   </div></div>
   <div class='paper-box-text' markdown="1">
