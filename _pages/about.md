@@ -60,7 +60,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
         <li><em>2023.04</em>: 🔥 New <a href="https://arxiv.org/abs/2304.07995">preprint</a> applying <strong>symbolic tasks</strong> in <strong>instruction tuning</strong></li>  
         <li><em>2022.10</em>: 📄 Our <strong>TaCube</strong> paper(Table QA) is accepted by EMNLP'22 (<font color="#cc0000">Oral</font> Presentation).</li>  
     </ul>  
-</div>  -->
+</div>  
 
 # 📝 Publications 
 
@@ -94,6 +94,96 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
 
 </div>
 </div>
+-->
+
+# 📝 Publications 
+
+### Selected Papers
+---
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="slideshow-container">
+
+      <div class="mySlides fade">
+        <img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%">
+      </div>
+
+      <div class="mySlides fade">
+        <img src='images/CCCL_2.jpg' alt="CCCL_2" width="100%">
+      </div>
+
+      <div class="mySlides fade">
+        <img src='images/CCCL_3.jpg' alt="CCCL_3" width="100%">
+      </div>
+
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+    <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
+    Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
+    ***Applied Soft Computing***, 2024, 154: 111395.  
+    JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
+  </div>
+</div>
+
+<style>
+  .slideshow-container {
+    position: relative;
+    max-width: 100%;
+  }
+
+  .mySlides {
+    display: none;
+  }
+
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+</style>
+
+<script>
+  let slideIndex = 1;
+  showSlides(slideIndex);
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("mySlides");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    slides[slideIndex-1].style.display = "block";
+  }
+</script>
+
 
 
 ### Collaborative Papers
