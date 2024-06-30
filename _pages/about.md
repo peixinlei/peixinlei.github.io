@@ -60,18 +60,23 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
         <li><em>2023.04</em>: 🔥 New <a href="https://arxiv.org/abs/2304.07995">preprint</a> applying <strong>symbolic tasks</strong> in <strong>instruction tuning</strong></li>  
         <li><em>2022.10</em>: 📄 Our <strong>TaCube</strong> paper(Table QA) is accepted by EMNLP'22 (<font color="#cc0000">Oral</font> Presentation).</li>  
     </ul>  
-</div>  
+</div>  -->
 
 # 📝 Publications 
 
 ### Selected Papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div><img src='images/CCCL.jpg' alt="paper_1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor)  
-[🌐[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698) [📄[PDF]](/pdf/CCCL.pdf)
-
-</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Appl. Soft Comput. 2024</div>
+      <img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  - Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor) 
+  [🌐[Link] (https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] [📄[PDF](/pdf/CCCL.pdf)]
+  </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
@@ -91,100 +96,6 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 </div>
 </div>
--->
-
-# 📝 Publications 
-
-### Selected Papers
----
-
-<style>
-.slider {
-  width: 100%;
-  max-width: 600px;
-  margin: auto;
-  overflow: hidden;
-  position: relative;
-  height: 400px; /* 设置一个固定高度，确保图片容器大小一致 */
-}
-
-.slides {
-  display: flex;
-  transition: transform 0.5s ease-in-out;
-  height: 100%; /* 确保 slides 高度填满 slider */
-}
-
-.slides img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover; /* 确保图片以合适的比例填充容器 */
-  flex-shrink: 0;
-}
-
-.slider-nav {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  transform: translateY(-50%);
-}
-
-.slider-nav button {
-  background: rgba(0, 0, 0, 0.5);
-  border: none;
-  color: white;
-  padding: 10px;
-  cursor: pointer;
-}
-</style>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">Appl. Soft Comput. 2024</div>
-    <div class="slider">
-      <div class="slides">
-        <img src='images/CCCL_1.jpg' alt="paper_1">
-        <img src='images/CCCL_2.jpg' alt="paper_2">
-      </div>
-      <div class="slider-nav">
-        <button id="prev">&#10094;</button>
-        <button id="next">&#10095;</button>
-      </div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  - Zheng Liu, **Xinlei Pei**, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor)  
-    [🌐[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698) [📄[PDF]](/pdf/CCCL.pdf)
-  </div>
-</div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const slides = document.querySelector('.slides');
-  const slideImages = document.querySelectorAll('.slides img');
-  const prevBtn = document.getElementById('prev');
-  const nextBtn = document.getElementById('next');
-  
-  let currentIndex = 0;
-
-  function showSlide(index) {
-    if (index >= slideImages.length) {
-      currentIndex = 0;
-    } else if (index < 0) {
-      currentIndex = slideImages.length - 1;
-    } else {
-      currentIndex = index;
-    }
-    slides.style.transform = `translateX(${-currentIndex * 100}%)`;
-  }
-
-  nextBtn.addEventListener('click', () => showSlide(currentIndex + 1));
-  prevBtn.addEventListener('click', () => showSlide(currentIndex - 1));
-});
-</script>
-
-
 
 
 ### Collaborative Papers
