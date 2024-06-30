@@ -174,6 +174,10 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
 .prev:hover, .next:hover {
   background-color: rgba(255,255,255,1); /* 悬停时背景变为不透明白色 */
 }
+.badge {
+  position: absolute;
+  z-index: 2;
+}
 
 </style>
 
