@@ -24,11 +24,11 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   <div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div>
     <div class="slideshow-container">
 
-      <div class="mySlides fade">
+      <div class="mySlides1 fade">
         <img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%">
       </div>
 
-      <div class="mySlides fade">
+      <div class="mySlides1 fade">
         <img src='images/CCCL_2.jpg' alt="CCCL_2" width="100%">
       </div>
 
@@ -49,15 +49,15 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   <div class='paper-box-image'><div><div class="badge">Expert Syst. Appl. 2023</div>
     <div class="slideshow-container">
 
-      <div class="mySlides fade">
+      <div class="mySlides2 fade">
         <img src='images/M2HSE_1.png' alt="M2HSE_1" width="100%">
       </div>
 
-      <div class="mySlides fade">
+      <div class="mySlides2 fade">
         <img src='images/M2HSE_2.png' alt="M2HSE_2" width="100%">
       </div>
 
-      <div class="mySlides fade">
+      <div class="mySlides2 fade">
         <img src='images/M2HSE_3.png' alt="M2HSE_3" width="100%">
       </div>
 
@@ -69,7 +69,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   <strong><font color="#374798">Complementarity is the king: Multi-modal and multi-grained hierarchical semantic enhancement network for cross-modal retrieval</font></strong>  
   `Xinlei Pei`, Zheng Liu, Shanshan Gao, Yijun Su.  
   ***Expert Systems with Applications***, 2023, 216: 119415  
-  JCR: **Q1** | IF: **8.6** | 1st author | CCF-C  
+  JCR: **Q1** | IF: **8.6** | 1st author | **CCF-C**  
   [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)]  | [🛠 [Code](https://github.com/peixinlei/M2HSE)] | [📄 [PDF](/pdf/M2HSE.pdf)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
   </div>
 </div>
@@ -77,47 +77,47 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 <style>
   .slideshow-container {
-  position: relative;
-  max-width: 100%;
-}
+    position: relative;
+    max-width: 100%;
+  }
 
-.mySlides {
-  display: none;
-}
+  .mySlides1, .mySlides2 {
+    display: none;
+  }
 
-.slideshow-container:hover .prev, 
-.slideshow-container:hover .next {
-  display: block;
-}
+  .slideshow-container:hover .prev, 
+  .slideshow-container:hover .next {
+    display: block;
+  }
 
-.prev, .next {
-  display: none; /* 默认隐藏 */
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 10px;
-  margin-top: -22px;
-  color: #374798; /* 蓝色箭头 */
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 3px;
-  user-select: none;
-  background-color: rgba(0, 0, 0, 0.5); /* 半透明白色背景 */
-}
+  .prev, .next {
+    display: none; /* 默认隐藏 */
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 10px;
+    margin-top: -22px;
+    color: #374798; /* 深蓝色箭头 */
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 3px;
+    user-select: none;
+    background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
+  }
 
-.next {
-  right: 10px;
-}
+  .next {
+    right: 10px;
+  }
 
-.prev {
-  left: 10px;
-}
+  .prev {
+    left: 10px;
+  }
 
-.prev:hover, .next:hover {
-  background-color: rgba(0, 0, 0, 0.8); /* 悬停时背景变为不透明白色 */
-}
+  .prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8); /* 悬停时背景变为更深的黑色 */
+  }
 .badge {
   position: absolute;
   z-index: 2;
@@ -126,24 +126,35 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 </style>
 
 <script>
-let slideIndex = 1;
-showSlides(slideIndex);
+  let slideIndex1 = 1;
+  showSlides(1, slideIndex1);
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
+  let slideIndex2 = 1;
+  showSlides(2, slideIndex2);
 
-function showSlides(n) {
-  let i;
-  let slides = document.getElementsByClassName("mySlides");
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
+  function plusSlides(slideshow, n) {
+    if (slideshow === 1) {
+      showSlides(1, slideIndex1 += n);
+    } else if (slideshow === 2) {
+      showSlides(2, slideIndex2 += n);
+    }
   }
-  slides[slideIndex-1].style.display = "block";
-}
 
+  function showSlides(slideshow, n) {
+    let i;
+    let slides;
+    if (slideshow === 1) {
+      slides = document.getElementsByClassName("mySlides1");
+    } else if (slideshow === 2) {
+      slides = document.getElementsByClassName("mySlides2");
+    }
+    if (n > slides.length) {n = 1}
+    if (n < 1) {n = slides.length}
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slides[n-1].style.display = "block";
+  }
 </script>
 
 
