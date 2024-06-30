@@ -50,15 +50,19 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     <div class="slideshow-container">
 
       <div class="mySlides2 fade">
-        <img src='images/M2HSE_1.png' alt="M2HSE_1" width="100%">
+        <img src='images/M2HSE_1.jpg' alt="M2HSE_1" width="100%">
       </div>
 
       <div class="mySlides2 fade">
-        <img src='images/M2HSE_2.png' alt="M2HSE_2" width="100%">
+        <img src='images/M2HSE_2.jpg' alt="M2HSE_2" width="100%">
       </div>
 
       <div class="mySlides2 fade">
-        <img src='images/M2HSE_3.png' alt="M2HSE_3" width="100%">
+        <img src='images/M2HSE_3.jpg' alt="M2HSE_3" width="100%">
+      </div>
+
+      <div class="mySlides2 fade">
+        <img src='images/M2HSE_4.jpg' alt="M2HSE_3" width="100%">
       </div>
 
       <a class="prev2" onclick="plusSlides(2, -1)">&#10094;</a>
