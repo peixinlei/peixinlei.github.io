@@ -16,91 +16,6 @@ I am currently a Big Data Engineer in [China Unicom (Shandong) Industrial Intern
 
 My research interests lie broadly in deep learning, information retrieval, etc. Advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm), I focused on cross-modal retrieval (e.g., image-text matching) and have published some [papers](https://scholar.google.com/citations?user=A6Sd5csAAAAJ) during my master's degree. In the near future, I may actively seek opportunities to pursue a Ph.D. Besides, you can download and view my <a href='./pdf/Resume.pdf'><img src="https://img.shields.io/badge/-English Curriculum Vitae-299DE7?logo=gitbook&logoColor=white"></a> from here. 
 
-<!--
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpeixinlei.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page hits&edge_flat=false"/></a>
--->
-
-# 🔥 News
-- *2024.02*: 🔔 One paper is accepted by ***Applied Soft Computing*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
-- *2023.10*: 🎁 I won ***the Excellent Master Dissertation Award of Shandong University of Finance and Economics*** in 2023 !! [\[Info\]](https://yjsy.sdufe.edu.cn/info/1031/3784.htm)
-- *2023.08*: 💻 I joined ***China Unicom*** as a Big Data Engineer !!
-- *2023.06*: 👔 Defense my M.S. and graduate from SDUFE, Good bye my school-days !!
-- *2023.05*: ⚡ One paper is accepted by ***Scientia Iranica*** !! [\[Journal\]](https://scientiairanica.sharif.edu/article_23224.html)
-- *2023.03*: 🎉 One paper is accepted by ***IEEE Access*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
-- *2023.02*: 🎯 One paper is accepted by ***Sensors*** !! [\[Journal\]](https://www.mdpi.com/1424-8220/23/5/2559)
-- *2022.12*: 💎 One paper is accepted by ***Expert Systems with Applications*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)
-
-<!-- <style>  
-    .scrollable-area {  
-        max-height: 170px;  
-        overflow-y: auto;  
-        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);  
-        padding: 10px;  
-        color: #333;
-    }
-    .pdf {
-        text-decoration: none;
-        color: #122c8b;
-    }
-    .code {
-        text-decoration: none;
-        color: #122c8b;
-    }
-    .title{
-        color: #374798;
-    }
-</style>  
-
-<div class="scrollable-area" style="width:100%;">
-    <ul>
-        <li><em>2024.05</em>: 📄 <strong>Preference Dissection</strong> paper is accepted by  ACL'24.</li>
-        <li><em>2024.01</em>: 📄 Our <strong>Lemur</strong> paper(Agent Model) is accepted by ICLR'24 (<font color="#cc0000">Spotlight</font>, 5%).</li>  
-        <li><em>2023.10</em>: 🔥 We've built <a href="https://github.com/xlang-ai/OpenAgents">OpenAgents</a>, an open platform for language agents in the wild!</li>  
-        <li><em>2023.10</em>: 🙋 We have released <a href="https://arxiv.org/abs/2310.06830">Lemur-70B</a>, an agentic language model based on LLama-2!</li>  
-        <li><em>2023.04</em>: 🔥 New <a href="https://arxiv.org/abs/2304.07995">preprint</a> applying <strong>symbolic tasks</strong> in <strong>instruction tuning</strong></li>  
-        <li><em>2022.10</em>: 📄 Our <strong>TaCube</strong> paper(Table QA) is accepted by EMNLP'22 (<font color="#cc0000">Oral</font> Presentation).</li>  
-    </ul>  
-</div>  
-
-# 📝 Publications 
-
-### Selected Papers
----
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">Appl. Soft Comput. 2024</div>
-<img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%">
-</div></div>
-<div class='paper-box-text' markdown="1">
-  
-<strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
-Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
-***Applied Soft Computing***, 2024, 154: 111395.  
-JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [📄[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209356) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
-
-</div>
-</div>
--->
-
 # 📝 Publications 
 
 ### Selected Papers
@@ -130,6 +45,37 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
   </div>
   
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">Expert Syst. Appl. 2023</div>
+    <div class="slideshow-container">
+
+      <div class="mySlides fade">
+        <img src='images/M2HSE_1.png' alt="M2HSE_1" width="100%">
+      </div>
+
+      <div class="mySlides fade">
+        <img src='images/M2HSE_2.png' alt="M2HSE_2" width="100%">
+      </div>
+
+      <div class="mySlides fade">
+        <img src='images/M2HSE_3.png' alt="M2HSE_3" width="100%">
+      </div>
+
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+  </div></div>
+
+  <div class='paper-box-text' markdown="1">
+  <strong><font color="#374798">Complementarity is the king: Multi-modal and multi-grained hierarchical semantic enhancement network for cross-modal retrieval</font></strong>  
+  `Xinlei Pei`, Zheng Liu, Shanshan Gao, Yijun Su.  
+  ***Expert Systems with Applications***, 2023, 216: 119415  
+  JCR: **Q1** | IF: **8.6** | 1st author | | CCF-C | [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)]  | [🛠 [Code](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)] | [📄 [PDF](/pdf/M2HSE.pdf)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
+  </div>
+  
+</div>
+
 
 <style>
   .slideshow-container {
@@ -234,3 +180,87 @@ function showSlides(n) {
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
 - *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
   
+<!--
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpeixinlei.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page hits&edge_flat=false"/></a>
+-->
+
+# 🔥 News
+- *2024.02*: 🔔 One paper is accepted by ***Applied Soft Computing*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
+- *2023.10*: 🎁 I won ***the Excellent Master Dissertation Award of Shandong University of Finance and Economics*** in 2023 !! [\[Info\]](https://yjsy.sdufe.edu.cn/info/1031/3784.htm)
+- *2023.08*: 💻 I joined ***China Unicom*** as a Big Data Engineer !!
+- *2023.06*: 👔 Defense my M.S. and graduate from SDUFE, Good bye my school-days !!
+- *2023.05*: ⚡ One paper is accepted by ***Scientia Iranica*** !! [\[Journal\]](https://scientiairanica.sharif.edu/article_23224.html)
+- *2023.03*: 🎉 One paper is accepted by ***IEEE Access*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
+- *2023.02*: 🎯 One paper is accepted by ***Sensors*** !! [\[Journal\]](https://www.mdpi.com/1424-8220/23/5/2559)
+- *2022.12*: 💎 One paper is accepted by ***Expert Systems with Applications*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)
+
+<!-- <style>  
+    .scrollable-area {  
+        max-height: 170px;  
+        overflow-y: auto;  
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);  
+        padding: 10px;  
+        color: #333;
+    }
+    .pdf {
+        text-decoration: none;
+        color: #122c8b;
+    }
+    .code {
+        text-decoration: none;
+        color: #122c8b;
+    }
+    .title{
+        color: #374798;
+    }
+</style>  
+
+<div class="scrollable-area" style="width:100%;">
+    <ul>
+        <li><em>2024.05</em>: 📄 <strong>Preference Dissection</strong> paper is accepted by  ACL'24.</li>
+        <li><em>2024.01</em>: 📄 Our <strong>Lemur</strong> paper(Agent Model) is accepted by ICLR'24 (<font color="#cc0000">Spotlight</font>, 5%).</li>  
+        <li><em>2023.10</em>: 🔥 We've built <a href="https://github.com/xlang-ai/OpenAgents">OpenAgents</a>, an open platform for language agents in the wild!</li>  
+        <li><em>2023.10</em>: 🙋 We have released <a href="https://arxiv.org/abs/2310.06830">Lemur-70B</a>, an agentic language model based on LLama-2!</li>  
+        <li><em>2023.04</em>: 🔥 New <a href="https://arxiv.org/abs/2304.07995">preprint</a> applying <strong>symbolic tasks</strong> in <strong>instruction tuning</strong></li>  
+        <li><em>2022.10</em>: 📄 Our <strong>TaCube</strong> paper(Table QA) is accepted by EMNLP'22 (<font color="#cc0000">Oral</font> Presentation).</li>  
+    </ul>  
+</div>  
+
+# 📝 Publications 
+
+### Selected Papers
+---
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Appl. Soft Comput. 2024</div>
+<img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+  
+<strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
+Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
+***Applied Soft Computing***, 2024, 154: 111395.  
+JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
+[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [📄[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
+[[HTML]](https://dx.doi.org/10.3233/JAE-209356) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+
+</div>
+</div>
+-->
