@@ -164,6 +164,11 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
   .prev:hover, .next:hover {
     background-color: rgba(0,0,0,0.8);
   }
+
+  .badge {
+    position: absolute;
+    z-index: 2;
+  }
 </style>
 
 <script>
