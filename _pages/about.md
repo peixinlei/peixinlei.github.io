@@ -85,12 +85,14 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     display: none;
   }
 
-  .slideshow-container:hover .prev, 
-  .slideshow-container:hover .next {
+  .slideshow-container:hover .prev1, 
+  .slideshow-container:hover .next1,
+  .slideshow-container:hover .prev2, 
+  .slideshow-container:hover .next2 {
     display: block;
   }
 
-  .prev, .next {
+  .prev1, .next1, .prev2, .next2 {
     display: none; /* 默认隐藏 */
     cursor: pointer;
     position: absolute;
@@ -107,23 +109,32 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
   }
 
-  .next {
+  .next1 {
     right: 10px;
   }
 
-  .prev {
+  .prev1 {
     left: 10px;
   }
 
-  .prev:hover, .next:hover {
+  .next2 {
+    right: 10px;
+  }
+
+  .prev2 {
+    left: 10px;
+  }
+
+  .prev1:hover, .next1:hover, .prev2:hover, .next2:hover {
     background-color: rgba(0, 0, 0, 0.8); /* 悬停时背景变为更深的黑色 */
   }
-.badge {
-  position: absolute;
-  z-index: 2;
-}
-
+  
+  .badge {
+    position: absolute;
+    z-index: 2;
+  }
 </style>
+
 
 <script>
   let slideIndex1 = 1;
@@ -162,6 +173,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     }
   }
 </script>
+
 
 
 
