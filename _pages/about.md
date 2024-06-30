@@ -105,15 +105,19 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   margin: auto;
   overflow: hidden;
   position: relative;
+  height: 400px; /* 设置一个固定高度，确保图片容器大小一致 */
 }
 
 .slides {
   display: flex;
   transition: transform 0.5s ease-in-out;
+  height: 100%; /* 确保 slides 高度填满 slider */
 }
 
 .slides img {
   width: 100%;
+  height: 100%;
+  object-fit: contain; /* 确保图片以合适的比例填充容器 */
   flex-shrink: 0;
 }
 
@@ -138,10 +142,13 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   position: absolute;
   top: 10px;
   left: 10px;
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(0, 0, 0, 0.7); /* 恢复原始样式 */
+  color: white;
   padding: 5px 10px;
   border-radius: 5px;
   z-index: 10;
+  font-size: 12px; /* 恢复原始样式 */
+  text-transform: uppercase; /* 恢复原始样式 */
 }
 </style>
 
@@ -150,9 +157,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     <div class="slider">
       <div class="badge">Appl. Soft Comput. 2024</div>
       <div class="slides">
-        <img src='images/CCCL_1.jpg' alt="CCCL_1">
-        <img src='images/CCCL_2.jpg' alt="CCCL_2">
-        <!-- Add more images as needed -->
+        <img src='images/CCCL_1.jpg' alt="paper_1">
+        <img src='images/CCCL_2.jpg' alt="paper_2">
       </div>
       <div class="slider-nav">
         <button id="prev">&#10094;</button>
@@ -161,8 +167,8 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  - Zheng Liu, **Xinlei Pei**, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor)  
-  [🌐[Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] [📄[PDF](/pdf/CCCL.pdf)]
+    - Zheng Liu, **Xinlei Pei**, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu,. Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval[J]. *Applied Soft Computing*, 2024, 154: 111395. (JCR: Q1; IF: 8.7; 2nd author, 1st supervisor)  
+    [🌐[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698) [📄[PDF]](/pdf/CCCL.pdf)
   </div>
 </div>
 
@@ -190,6 +196,7 @@ document.addEventListener('DOMContentLoaded', function () {
   prevBtn.addEventListener('click', () => showSlide(currentIndex - 1));
 });
 </script>
+
 
 
 
