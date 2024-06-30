@@ -154,13 +154,13 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
   width: auto;
   padding: 10px;
   margin-top: -22px;
-  color: blue; /* 蓝色箭头 */
+  color: #374798; /* 蓝色箭头 */
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
   border-radius: 3px;
   user-select: none;
-  background-color: rgba(255,255,255,0.7); /* 半透明白色背景 */
+  background-color: rgba(0, 0, 0, 0.5); /* 半透明白色背景 */
 }
 
 .next {
@@ -172,7 +172,7 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
 }
 
 .prev:hover, .next:hover {
-  background-color: rgba(255,255,255,1); /* 悬停时背景变为不透明白色 */
+  background-color: rgba(0, 0, 0, 0.8); /* 悬停时背景变为不透明白色 */
 }
 .badge {
   position: absolute;
