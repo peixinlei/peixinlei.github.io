@@ -101,7 +101,7 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
 ### Selected Papers
 ---
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image'><div class="badge">Appl. Soft Comput. 2024</div>
     <div class="slideshow-container">
 
       <div class="mySlides fade">
