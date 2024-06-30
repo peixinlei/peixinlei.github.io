@@ -101,8 +101,7 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
 ### Selected Papers
 ---
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">Appl. Soft Comput. 2024</div>
+  <div class='paper-box-image'><div class="badge">Appl. Soft Comput. 2024</div>
     <div class="slideshow-container">
 
       <div class="mySlides fade">
@@ -112,9 +111,7 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
       <div class="mySlides fade">
         <img src='images/CCCL_2.jpg' alt="CCCL_2" width="100%">
       </div>
-
-      <div class="mySlides fade">
-        <img src='images/CCCL_3.jpg' alt="CCCL_3" width="100%">
+      
       </div>
 
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -123,10 +120,10 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
   </div>
 
   <div class='paper-box-text' markdown="1">
-    <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
-    Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
-    ***Applied Soft Computing***, 2024, 154: 111395.  
-    JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
+  <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
+  Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
+  ***Applied Soft Computing***, 2024, 154: 111395.  
+  JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
   </div>
 </div>
 
