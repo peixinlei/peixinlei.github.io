@@ -133,62 +133,69 @@ JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor | [🌐 [Link](https://ww
 
 <style>
   .slideshow-container {
-    position: relative;
-    max-width: 100%;
-  }
+  position: relative;
+  max-width: 100%;
+}
 
-  .mySlides {
-    display: none;
-  }
+.mySlides {
+  display: none;
+}
 
-  .prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    padding: 16px;
-    margin-top: -22px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-  }
+.slideshow-container:hover .prev, 
+.slideshow-container:hover .next {
+  display: block;
+}
 
-  .next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-  }
+.prev, .next {
+  display: none; /* 默认隐藏 */
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 10px;
+  margin-top: -22px;
+  color: blue; /* 蓝色箭头 */
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 3px;
+  user-select: none;
+  background-color: rgba(255,255,255,0.7); /* 半透明白色背景 */
+}
 
-  .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-  }
+.next {
+  right: 10px;
+}
 
-  .badge {
-    position: absolute;
-    z-index: 2;
-  }
+.prev {
+  left: 10px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(255,255,255,1); /* 悬停时背景变为不透明白色 */
+}
+
 </style>
 
 <script>
-  let slideIndex = 1;
-  showSlides(slideIndex);
+let slideIndex = 1;
+showSlides(slideIndex);
 
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
 
-  function showSlides(n) {
-    let i;
-    let slides = document.getElementsByClassName("mySlides");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    slides[slideIndex-1].style.display = "block";
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
   }
+  slides[slideIndex-1].style.display = "block";
+}
+
 </script>
 
 
