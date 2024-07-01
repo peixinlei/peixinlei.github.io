@@ -18,6 +18,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 
 # 🔥 News
+
 - *2024.02*: 🔔 One paper is accepted by ***Applied Soft Computing*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
 - *2023.10*: 🎁 I won ***the Excellent Master Dissertation Award of Shandong University of Finance and Economics*** in 2023 !! [\[Info\]](https://yjsy.sdufe.edu.cn/info/1031/3784.htm)
 - *2023.08*: 💻 I joined ***China Unicom*** as a Big Data Engineer !!
@@ -28,8 +29,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 - *2022.12*: 💎 One paper is accepted by ***Expert Systems with Applications*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)
 
 
-# 📝 Publications 
-
+# 📝 Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">Expert Syst. Appl. 2023</div>
@@ -198,7 +198,6 @@ JCR: **Q2** | IF: 3.9 | 3nd author, 2nd supervisor
 [🌐 [Link](https://ieeexplore.ieee.org/abstract/document/10089456)] | [📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089456)]
 </div><br>
 
-
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">HAAN: Learning a Hierarchical Adaptive Alignment Network for Image-Text Retrieval</font></strong>  
 Shuhuai Wang, Zheng Liu, `Xinlei Pei`, Junhao Xu.  
@@ -213,7 +212,7 @@ Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.
 ***Scientia Iranica***, 2023, 30(5): 1645-1669.  
 JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor  
 [🌐 [Link](https://scientiairanica.sharif.edu/article_23224.html)] | [📄 [PDF](https://scientiairanica.sharif.edu/article_23224_abb29593d4c9411c45708d6469aead94.pdf)]
-</div><br>  
+</div>
 
 # 🏅 Honors and Awards
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
