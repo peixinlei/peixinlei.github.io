@@ -219,15 +219,17 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 
 - Excellent Graduate Student of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 5%**)
 - Excellent Master Dissertation Award of Shandong University of Finance and Economics, Shenyang, Jinan China, in 2023. (**Top 5%**)
-- Excellent Personal in Science and Technology Innovation of Shandong University of Finance and Economics, Shenyang, Jinan China, in 2022. 
+- Postgraduate Award for Research and Technology Innovation of Shandong University of Finance and Economics, Jinan China, in 2022. 
 - Excellent Postgraduate Student of Shandong University of Finance and Economics, Jinan China, in 2021. 
 - Excellent Bachelar Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2020. 
 
 ### 🥇 Competition Awards
-
-- **The Third Award** of "SPSSPRO Cup" The 15th Mathematics China Mathematical Modeling Network Challenge, Inner Mongolia Mathematical Society, China, in 2022. 
-- **The Third Award** of "Huawei Cup" The 18th China Post-graduate Mathematical Modeling Contest, Association of Chinese Graduate Education, China, in 2021. 
-- **The First Award** in Shandong Division of National Undergraduate Mathematical Modeling Contest, China Society for Industrial and Applied Mathematics, China, in 2019. (**Leader**)
+- **The First Prize** of The 6th "Kunpeng Cup" Shandong New Energy • Software Innovation and Entrepreneurship Competition, Department of Industry and Information Technology of Shandong Province, China, in 2022. 
+- **The First Prize** of The 13th Shandong Provincial Undergraduate Entrepreneurship Plan Competition, Shandong Association for Science & Technology, China, in 2022. 
+- **The Second Prize** of "Pu Yi Award" The 6th National College Student Translation Competition, Oversea English, China, in 2022. (**Individual**)
+- **The Third Prize** of The 15th "SPSSPRO Cup" Mathematics China Mathematical Modeling Network Challenge, Inner Mongolia Mathematical Society, China, in 2022. (**Leader**)
+- **The Third Prize** of "Huawei Cup" The 18th China Post-graduate Mathematical Modeling Contest, Association of Chinese Graduate Education, China, in 2021. 
+- **The First Prize** in Shandong Division of National Undergraduate Mathematical Modeling Contest, China Society for Industrial and Applied Mathematics, China, in 2019. (**Leader**)
 
 ### 💰 Scholarships & Fellowships
 
