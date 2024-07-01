@@ -193,7 +193,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 ### Collaborative Papers
 ---
 
-<strong><font color="#374798">- FB-Net: Dual-Branch Foreground-Background Fusion Network With Multi-Scale Semantic Scanning for Image-Text Retrieval</font></strong>  
+- FB-Net: Dual-Branch Foreground-Background Fusion Network With Multi-Scale Semantic Scanning for Image-Text Retrieval
 Junhao Xu, Zheng Liu, `Xinlei Pei`, Shuhuai Wang, Shanshan Gao.  
 ***IEEE ACCESS***, 2023, 11: 36516-36537.  
 JCR: **Q2** | IF: **8.7** | **3nd** author, **2nd** supervisor  
