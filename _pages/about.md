@@ -189,7 +189,6 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   }
 </script>
 
-
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">FB-Net: Dual-Branch Foreground-Background Fusion Network With Multi-Scale Semantic Scanning for Image-Text Retrieval</font></strong>  
 Junhao Xu, Zheng Liu, `Xinlei Pei`, Shuhuai Wang, Shanshan Gao.  
@@ -214,7 +213,24 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 [🌐 [Link](https://scientiairanica.sharif.edu/article_23224.html)] | [📄 [PDF](https://scientiairanica.sharif.edu/article_23224_abb29593d4c9411c45708d6469aead94.pdf)]
 </div>
 
-# 🏅 Honors and Awards
+# 🏆 Honors and Awards
+
+### 👑 Honorary Titles
+
+- Excellent Graduate Student of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 5%**)
+- Excellent Master Dissertation Award of Shandong University of Finance and Economics, Shenyang, Jinan China, in 2023. (**Top 5%**)
+- Excellent Personal in Science and Technology Innovation of Shandong University of Finance and Economics, Shenyang, Jinan China, in 2022. 
+- Excellent Postgraduate Student of Shandong University of Finance and Economics, Jinan China, in 2021. 
+- Excellent Bachelar Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2020. 
+
+### 🥇 Competition Awards
+
+- **The Third Award** of "SPSSPRO Cup" The 15th Mathematics China Mathematical Modeling Network Challenge, Inner Mongolia Mathematical Society, China, in 2022. 
+- **The Third Award** of "Huawei Cup" The 18th China Post-graduate Mathematical Modeling Contest, Association of Chinese Graduate Education, China, in 2021. 
+- **The First Award** in Shandong Division of National Undergraduate Mathematical Modeling Contest, China Society for Industrial and Applied Mathematics, China, in 2019. (**Leader**)
+
+### 💰 Scholarships & Fellowships
+
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
