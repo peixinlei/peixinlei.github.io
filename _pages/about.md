@@ -196,7 +196,7 @@ Junhao Xu, Zheng Liu, `Xinlei Pei`, Shuhuai Wang, Shanshan Gao.
 ***IEEE ACCESS***, 2023, 11: 36516-36537.  
 JCR: **Q2** | IF: 3.9 | 3nd author, 2nd supervisor  
 [🌐 [Link](https://ieeexplore.ieee.org/abstract/document/10089456)] | [📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089456)]
-</div><br>
+</div>
 
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">HAAN: Learning a Hierarchical Adaptive Alignment Network for Image-Text Retrieval</font></strong>  
@@ -204,7 +204,7 @@ Shuhuai Wang, Zheng Liu, `Xinlei Pei`, Junhao Xu.
 ***Sensors***, 2023, 23(5): 2559.  
 JCR: **Q2** | IF: 3.9 | 3nd author, 2nd supervisor  
 [🌐 [Link](https://www.mdpi.com/1424-8220/23/5/2559)] | [📄 [PDF](https://www.mdpi.com/1424-8220/23/5/2559/pdf?version=1677656514)]
-</div><br>  
+</div>
 
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">Cross-media retrieval via fusing multi-modality and multi-grained data</font></strong>  
