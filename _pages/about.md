@@ -225,18 +225,19 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 
 ### 🥇 Competition Awards
 - `The First Prize` of The 6th "Kunpeng Cup" Shandong New Energy • Software Innovation and Entrepreneurship Competition, Department of Industry and Information Technology of Shandong Province, China, in 2022. 
-- `The First Prize` of The 13th Shandong Provincial Undergraduate Entrepreneurship Plan Competition, Shandong Association for Science & Technology, China, in 2022. 
+- `The First Prize` of The 13th "Challenge Cup" Shandong Provincial Undergraduate Entrepreneurship Plan Competition, Shandong Association for Science & Technology, China, in 2022. 
 - `The Second Prize` of "Pu Yi Award" The 6th National College Student Translation Competition, Oversea English, China, in 2022. (**Individual**)
 - `The Third Prize` of The 15th "SPSSPRO Cup" Mathematics China Mathematical Modeling Network Challenge, Inner Mongolia Mathematical Society, China, in 2022. (**Leader**)
 - `The Third Prize` of "Huawei Cup" The 18th China Post-graduate Mathematical Modeling Contest, Association of Chinese Graduate Education, China, in 2021. 
 - `The First Prize` in Shandong Division of National Undergraduate Mathematical Modeling Contest, China Society for Industrial and Applied Mathematics, China, in 2019. (**Leader**)
 
 ### 💰 Scholarships & Fellowships
-
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
-
+- Excellent Academic Achievement Scholarship of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 1%**)
+- Graduate "Lu Xin" Research Scholarship of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 1%**)
+- `The First Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2022.
+- `The First Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2021.
+- `The Second Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2020.
+- `The Second Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, 4 Times, 2016-2019.
 
 # 🎓 Educations 
 
@@ -244,19 +245,18 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 
 - <span style="display: inline-block; width: 159px;">*2016.09 - 2020.06*, B.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
 
-# 💬 Conferences
+# 💬 Blogs
 
 - *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
 - *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
 - *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
 
-
+<!--
 # 🏭 Internships
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
 - *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
-  
-<!--
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpeixinlei.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page hits&edge_flat=false"/></a>
 -->
 
