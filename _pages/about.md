@@ -30,8 +30,6 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 # 📝 Publications 
 
-### Selected Papers
----
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">Expert Syst. Appl. 2023</div>
@@ -65,6 +63,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)] | [📄 [PDF](/pdf/M2HSE.pdf)] | [🛠 [Code](https://github.com/peixinlei/M2HSE)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div>
@@ -190,9 +189,6 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   }
 </script>
 
-### Collaborative Papers
----
-
 
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">FB-Net: Dual-Branch Foreground-Background Fusion Network With Multi-Scale Semantic Scanning for Image-Text Retrieval</font></strong>  
@@ -211,7 +207,6 @@ JCR: **Q2** | IF: 3.9 | 3nd author, 2nd supervisor
 [🌐 [Link](https://www.mdpi.com/1424-8220/23/5/2559)] | [📄 [PDF](https://www.mdpi.com/1424-8220/23/5/2559/pdf?version=1677656514)]
 </div><br>  
 
-
 <div class='paper-box-text' markdown="1">
 <strong><font color="#374798">Cross-media retrieval via fusing multi-modality and multi-grained data</font></strong>  
 Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.  
@@ -219,7 +214,6 @@ Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.
 JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor  
 [🌐 [Link](https://scientiairanica.sharif.edu/article_23224.html)] | [📄 [PDF](https://scientiairanica.sharif.edu/article_23224_abb29593d4c9411c45708d6469aead94.pdf)]
 </div><br>  
-
 
 # 🏅 Honors and Awards
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
