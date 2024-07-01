@@ -86,7 +86,7 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   `Xinlei Pei`, Zheng Liu, Shanshan Gao, Yijun Su.  
   ***Expert Systems with Applications***, 2023, 216: 119415  
   JCR: **Q1** | IF: **8.6** | 1st author | **CCF-C**  
-  [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)]  | [🛠 [Code](https://github.com/peixinlei/M2HSE)] | [📄 [PDF](/pdf/M2HSE.pdf)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
+  [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)] | [📄 [PDF](/pdf/M2HSE.pdf)] | [🛠 [Code](https://github.com/peixinlei/M2HSE)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
   </div>
 </div>
 
