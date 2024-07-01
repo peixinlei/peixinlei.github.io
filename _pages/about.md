@@ -16,6 +16,18 @@ I am currently a Big Data Engineer in [China Unicom (Shandong) Industrial Intern
 
 My research interests lie broadly in deep learning, information retrieval, etc. Advised by [Prof. Zheng Liu](https://cs.sdufe.edu.cn/info/1506/3458.htm), I focused on cross-modal retrieval (e.g., image-text matching) and have published some [papers](https://scholar.google.com/citations?user=A6Sd5csAAAAJ) during my master's degree. In the near future, I may actively seek opportunities to pursue a Ph.D. Besides, you can download and view my <a href='./pdf/Resume.pdf'><img src="https://img.shields.io/badge/-English Curriculum Vitae-299DE7?logo=gitbook&logoColor=white"></a> from here. 
 
+
+# 🔥 News
+- *2024.02*: 🔔 One paper is accepted by ***Applied Soft Computing*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
+- *2023.10*: 🎁 I won ***the Excellent Master Dissertation Award of Shandong University of Finance and Economics*** in 2023 !! [\[Info\]](https://yjsy.sdufe.edu.cn/info/1031/3784.htm)
+- *2023.08*: 💻 I joined ***China Unicom*** as a Big Data Engineer !!
+- *2023.06*: 👔 Defense my M.S. and graduate from SDUFE, Good bye my school-days !!
+- *2023.05*: ⚡ One paper is accepted by ***Scientia Iranica*** !! [\[Journal\]](https://scientiairanica.sharif.edu/article_23224.html)
+- *2023.03*: 🎉 One paper is accepted by ***IEEE Access*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
+- *2023.02*: 🎯 One paper is accepted by ***Sensors*** !! [\[Journal\]](https://www.mdpi.com/1424-8220/23/5/2559)
+- *2022.12*: 💎 One paper is accepted by ***Expert Systems with Applications*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)
+
+
 # 📝 Publications 
 
 ### Selected Papers
@@ -215,16 +227,6 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpeixinlei.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=page hits&edge_flat=false"/></a>
 -->
-
-# 🔥 News
-- *2024.02*: 🔔 One paper is accepted by ***Applied Soft Computing*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
-- *2023.10*: 🎁 I won ***the Excellent Master Dissertation Award of Shandong University of Finance and Economics*** in 2023 !! [\[Info\]](https://yjsy.sdufe.edu.cn/info/1031/3784.htm)
-- *2023.08*: 💻 I joined ***China Unicom*** as a Big Data Engineer !!
-- *2023.06*: 👔 Defense my M.S. and graduate from SDUFE, Good bye my school-days !!
-- *2023.05*: ⚡ One paper is accepted by ***Scientia Iranica*** !! [\[Journal\]](https://scientiairanica.sharif.edu/article_23224.html)
-- *2023.03*: 🎉 One paper is accepted by ***IEEE Access*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
-- *2023.02*: 🎯 One paper is accepted by ***Sensors*** !! [\[Journal\]](https://www.mdpi.com/1424-8220/23/5/2559)
-- *2022.12*: 💎 One paper is accepted by ***Expert Systems with Applications*** !! [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)
 
 <!-- <style>  
     .scrollable-area {  
