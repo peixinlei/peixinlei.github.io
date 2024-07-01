@@ -32,30 +32,6 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 
 ### Selected Papers
 ---
-<div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div>
-    <div class="slideshow-container">
-
-      <div class="mySlides1 fade">
-        <img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%">
-      </div>
-
-      <div class="mySlides1 fade">
-        <img src='images/CCCL_2.jpg' alt="CCCL_2" width="100%">
-      </div>
-
-      <a class="prev1" onclick="plusSlides(1, -1)">&#10094;</a>
-      <a class="next1" onclick="plusSlides(1, 1)">&#10095;</a>
-    </div>
-  </div></div>
-  <div class='paper-box-text' markdown="1">
-  <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
-  Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
-  ***Applied Soft Computing***, 2024, 154: 111395.  
-  JCR: **Q1** | IF: **8.7** | 2nd author, 1st supervisor  
-  [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">Expert Syst. Appl. 2023</div>
@@ -85,11 +61,35 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
   <strong><font color="#374798">Complementarity is the king: Multi-modal and multi-grained hierarchical semantic enhancement network for cross-modal retrieval</font></strong>  
   `Xinlei Pei`, Zheng Liu, Shanshan Gao, Yijun Su.  
   ***Expert Systems with Applications***, 2023, 216: 119415  
-  JCR: **Q1** | IF: **8.6** | 1st author | **CCF-C**  
+  JCR: **Q1** | IF: **8.6** | **1st** author | **CCF-C**  
   [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)] | [📄 [PDF](/pdf/M2HSE.pdf)] | [🛠 [Code](https://github.com/peixinlei/M2HSE)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">Appl. Soft Comput. 2024</div>
+    <div class="slideshow-container">
+
+      <div class="mySlides1 fade">
+        <img src='images/CCCL_1.jpg' alt="CCCL_1" width="100%">
+      </div>
+
+      <div class="mySlides1 fade">
+        <img src='images/CCCL_2.jpg' alt="CCCL_2" width="100%">
+      </div>
+
+      <a class="prev1" onclick="plusSlides(1, -1)">&#10094;</a>
+      <a class="next1" onclick="plusSlides(1, 1)">&#10095;</a>
+    </div>
+  </div></div>
+  <div class='paper-box-text' markdown="1">
+  <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
+  Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
+  ***Applied Soft Computing***, 2024, 154: 111395.  
+  JCR: **Q1** | IF: **8.7** | **2nd** author, **1st** supervisor  
+  [🌐 [Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [PDF](/pdf/CCCL.pdf)]
+  </div>
+</div>
 
 <style>
   .slideshow-container {
@@ -191,13 +191,13 @@ My research interests lie broadly in deep learning, information retrieval, etc. 
 </script>
 
 
-
-
-
 ### Collaborative Papers
 ---
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15(20): 7362. (JCR:Q1; IF:3.748)  
-[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+<strong><font color="#374798">FB-Net: Dual-Branch Foreground-Background Fusion Network With Multi-Scale Semantic Scanning for Image-Text Retrieval</font></strong>  
+Junhao Xu, Zheng Liu, `Xinlei Pei`, Shuhuai Wang, Shanshan Gao.  
+***IEEE ACCESS***, 2023, 11: 36516-36537.  
+JCR: **Q2** | IF: **8.7** | **3nd** author, **2nd** supervisor  
+[🌐 [Link](https://ieeexplore.ieee.org/abstract/document/10089456)] | [📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089456)]
 
 
 # 🏅 Honors and Awards
