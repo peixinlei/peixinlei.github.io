@@ -219,23 +219,23 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 
 - Excellent Graduate Student of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 5%**)
 - Excellent Master Dissertation Award of Shandong University of Finance and Economics, Shenyang, Jinan China, in 2023. (**Top 5%**)
-- Postgraduate Award for Research and Technology Innovation of Shandong University of Finance and Economics, Jinan China, in 2022. 
-- Excellent Postgraduate Student of Shandong University of Finance and Economics, Jinan China, in 2021. 
-- Excellent Bachelar Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2020. 
+- Postgraduate Award for Research and Technology Innovation of Shandong University of Finance and Economics, Jinan China, in 2022. (**Top 1%**)
+- Excellent Postgraduate Student of Shandong University of Finance and Economics, Jinan China, in 2021. (**Top 5%**)
+- Excellent Bachelar Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2020. (**Top 5%**)
 
 ### 🥇 Competition Awards
-- `The First Prize` of The 6th "Kunpeng Cup" Shandong New Energy • Software Innovation and Entrepreneurship Competition, Department of Industry and Information Technology of Shandong Province, China, in 2022. 
-- `The First Prize` of The 13th "Challenge Cup" Shandong Provincial Undergraduate Entrepreneurship Plan Competition, Shandong Association for Science & Technology, China, in 2022. 
+- `The First Prize` of The 6th "Kunpeng Cup" Shandong New Energy • Software Innovation and Entrepreneurship Competition, Department of Industry and Information Technology of Shandong Province, China, in 2022. (**3rd author**)
+- `The First Prize` of The 13th "Challenge Cup" Shandong Provincial Undergraduate Entrepreneurship Plan Competition, Shandong Association for Science & Technology, China, in 2022. (**2nd author**)
 - `The Second Prize` of "Pu Yi Award" The 6th National College Student Translation Competition, Oversea English, China, in 2022. (**Individual**)
 - `The Third Prize` of The 15th "SPSSPRO Cup" Mathematics China Mathematical Modeling Network Challenge, Inner Mongolia Mathematical Society, China, in 2022. (**Leader**)
-- `The Third Prize` of "Huawei Cup" The 18th China Post-graduate Mathematical Modeling Contest, Association of Chinese Graduate Education, China, in 2021. 
+- `The Third Prize` of "Huawei Cup" The 18th China Post-graduate Mathematical Modeling Contest, Association of Chinese Graduate Education, China, in 2021. (**2nd author**)
 - `The First Prize` in Shandong Division of National Undergraduate Mathematical Modeling Contest, China Society for Industrial and Applied Mathematics, China, in 2019. (**Leader**)
 
 ### 💰 Scholarships & Fellowships
 - `Excellent Academic Achievement Scholarship` of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 1%**)
 - `Graduate "Lu Xin" Research Scholarship` of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 1%**)
-- `The First Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2022.
-- `The First Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2021.
+- `The First Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2022.(**Top 5%**)
+- `The First Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2021.(**Top 5%**)
 - `The Second Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2020.
 - `The Second Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, 4 Times, 2016-2019.
 
