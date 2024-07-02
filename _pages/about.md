@@ -232,8 +232,8 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 - `The First Prize` in Shandong Division of National Undergraduate Mathematical Modeling Contest, China Society for Industrial and Applied Mathematics, China, in 2019. (**Leader**)
 
 ### 💰 Scholarships & Fellowships
-- Excellent Academic Achievement Scholarship of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 1%**)
-- Graduate "Lu Xin" Research Scholarship of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 1%**)
+- `Excellent Academic Achievement Scholarship` of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 1%**)
+- `Graduate "Lu Xin" Research Scholarship` of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 1%**)
 - `The First Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2022.
 - `The First Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2021.
 - `The Second Prize` Scholarship of Shandong University of Finance and Economics, Jinan China, in 2020.
