@@ -245,6 +245,25 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 
 - <span style="display: inline-block; width: 159px;">*2016.09 - 2020.06*, B.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> School of Computer Science and Technology, Shandong University of Finance and Economics, Jinan China.
 
+# 🚀 Skills
+
+### 💻 Programming
+
+- Python, MATLAB, Shell (**Proficient**)
+- Java, SQL, JavaScript, HTML/CSS (Know all about)
+- C, C++, Lua, Ruby (Understand)
+
+### 🧰 Frameworks & Tools:
+
+- PyTorch, PaddlePaddle, Pandas, Scikit-learn (**Proficient**)
+- Huggingface-transformers, LangChain, TensorFlow, Mysql (Know all about)
+- Hadoop, Kafka, Zookeeper, Redis, SpringBoot (Understand)
+
+### 📌 Others:
+
+- Languages: CET-6
+- LaTeX, Markdown, PowerPoint, Excel, Visio
+
 # 📝 Blogs
 
 - 🚩 [JDBC Learning Record-1](https://www.cnblogs.com/boreas-pxl/p/18124520)
