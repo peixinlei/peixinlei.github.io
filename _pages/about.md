@@ -256,7 +256,7 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 ### 🧰 Frameworks & Tools:
 
 - PyTorch, PaddlePaddle, Pandas, Scikit-learn (**Proficient**)
-- Huggingface-transformers, LangChain, TensorFlow, Mysql (Know all about)
+- Huggingface-transformers, LangChain, TensorFlow, Mysql, Git (Know all about)
 - Hadoop, Kafka, Zookeeper, Redis, SpringBoot (Understand)
 
 ### 📌 Others:
