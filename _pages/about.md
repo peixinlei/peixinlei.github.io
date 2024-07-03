@@ -219,7 +219,7 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 
 - Excellent Graduate Student of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 5%**)
 - Excellent Master Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 5%**)
-- Postgraduate Award for Research and Technology Innovation of Shandong University of Finance and Economics, Jinan China, in 2022. (**Top 1%**)
+- Excellent Individual in Postgraduate Research Achievements of Shandong University of Finance and Economics, Jinan China, in 2022. (**Top 1%**)
 - Excellent Postgraduate Student of Shandong University of Finance and Economics, Jinan China, in 2021. (**Top 5%**)
 - Excellent Bachelor Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2020. (**Top 5%**)
 
