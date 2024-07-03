@@ -249,9 +249,9 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 
 ### 💻 Programming Languages
 
-- Python, MATLAB, Shell (**Proficient**)
+- Python, MATLAB, Shell/Bash (**Proficient**)
 - Java, SQL, JavaScript, HTML/CSS (Know all about)
-- C, C++, Lua, Ruby (Understand)
+- C/C++, Lua, Ruby (Understand)
 
 ### 🧰 Frameworks & Tools:
 
