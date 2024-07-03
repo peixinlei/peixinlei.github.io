@@ -221,7 +221,7 @@ JCR: **Q2** | IF: 1.4 | 3nd author, 1st supervisor
 - Excellent Master Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2023. (**Top 5%**)
 - Postgraduate Award for Research and Technology Innovation of Shandong University of Finance and Economics, Jinan China, in 2022. (**Top 1%**)
 - Excellent Postgraduate Student of Shandong University of Finance and Economics, Jinan China, in 2021. (**Top 5%**)
-- Excellent Bachelar Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2020. (**Top 5%**)
+- Excellent Bachelor Dissertation Award of Shandong University of Finance and Economics, Jinan China, in 2020. (**Top 5%**)
 
 ### 🥇 Competition Awards
 - `The First Prize` of The 6th "Kunpeng Cup" Shandong New Energy • Software Innovation and Entrepreneurship Competition, Department of Industry and Information Technology of Shandong Province, China, in 2022. (**3rd author**)
